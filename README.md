@@ -48,4 +48,9 @@ Planning du projet
 Planning de déploiement du SI (1er octobre → 6 novembre 2026) :
 (https://trello.com/invite/b/6aa0199c3e3989fedab93e23/ATTIb0f1463f5fb9c1e93e6ffdd861f7ff74B758D788/si-azur-nautic)
 
+Maquette du site
+
+Maquette du site web d'Azur Nautic (page d'accueil et page de réservation) :
+[Voir la maquette Figma](https://www.figma.com/design/11e2qDEVr3I8J3kgZqKbit/Maquette-du-site-%E2%80%93-Azur-Nautic?node-id=0-1&t=YLnRGgAFjhSXbYBw-1)
+
 Mohamed-Ali
