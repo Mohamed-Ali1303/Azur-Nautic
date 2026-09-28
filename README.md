@@ -43,4 +43,9 @@ Planning Trello (M+1 minimum)
 Modèle de données MCD / MLD (Merise)
 Auteur
 
+Planning du projet
+
+Planning de déploiement du SI (1er octobre → 6 novembre 2026) :
+(https://trello.com/invite/b/6aa0199c3e3989fedab93e23/ATTIb0f1463f5fb9c1e93e6ffdd861f7ff74B758D788/si-azur-nautic)
+
 Mohamed-Ali
